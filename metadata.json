@@ -1,0 +1,6 @@
+{
+  "name": "APP-Web",
+  "description": "Church Management System for GBI ROCK Juanda. Fully integrated with Google Sheets, supporting congregation directories, events, sermons, prayer requests, and donations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
